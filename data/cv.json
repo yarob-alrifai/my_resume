@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "defaultLang": "en",
+    "availableLangs": ["en", "ar", "ru"]
+  },
+  "personal": {
+    "name": {
+      "en": "Yarob Alrifai",
+      "ar": "يارب الرفاعي",
+      "ru": "Яроб Алрифаи"
+    },
+    "title": {
+      "en": "AI & Machine Learning | Full-Stack Web Developer | Lecturer at MISIS",
+      "ar": "الذكاء الاصطناعي وتعلم الآلة | مطوّر ويب متكامل | محاضر في جامعة ميسيس",
+      "ru": "ИИ и машинное обучение | Full-Stack веб-разработчик | Преподаватель МИСиС"
+    },
+    "location": "Moscow, Russia",
+    "email": "yalrifai41@gmail.com",
+    "phone": "+7 989 115 6593",
+    "telegram": "@yarob_alrifai",
+    "links": {
+      "linkedin": "https://linkedin.com/in/yarob-alrifai-a21739190",
+      "github": "https://github.com/yarob-alrifai",
+      "behance": "https://behance.net/yarob_alrifai",
+      "vk": "https://vk.com/yarob_alrifai"
+    }
+  },
+  "about": {
+    "en": "AI & Machine Learning specialist and Full-Stack web developer. I teach 'Artificial Intelligence and Neural Networks' at the MISIS master's program: supervised and unsupervised learning, deep learning architectures, neural network optimization; I guide students in building models with Python, TensorFlow and PyTorch. Master's in Industrial IoT (IIoT), PhD candidate in Analysis and Processing of Information in Complex Systems. Over 4 years of commercial web development with Angular, NgRx, React, TypeScript and Node.js, plus Python (pandas, Plotly, Streamlit) for data analysis and dashboards.",
+    "ar": "متخصص في الذكاء الاصطناعي وتعلم الآلة ومطوّر ويب متكامل. أدرّس مادة 'الذكاء الاصطناعي والشبكات العصبية' في برنامج الماجستير بجامعة ميسيس: التعلم الخاضع للإشراف وغير الخاضع، معمارية التعلم العميق، تحسين الشبكات العصبية؛ أوجّه الطلاب في بناء النماذج باستخدام Python وTensorFlow وPyTorch. ماجستير في إنترنت الأشياء الصناعي (IIoT)، طالب دكتوراه في تحليل ومعالجة المعلومات في الأنظمة المعقدة. أكثر من 4 سنوات من تطوير الويب التجاري باستخدام Angular وNgRx وReact وTypeScript وNode.js، إضافةً إلى Python (pandas وPlotly وStreamlit) لتحليل البيانات ولوحات المعلومات.",
+    "ru": "Специалист по искусственному интеллекту и машинному обучению, full-stack веб-разработчик. Преподаю дисциплину «Искусственный интеллект и нейронные сети» в магистратуре МИСиС: обучение с учителем и без учителя, архитектуры глубокого обучения, оптимизация нейронных сетей; руковожу студентами при создании моделей на Python, TensorFlow и PyTorch. Магистр в области промышленного интернета вещей (IIoT), аспирант по направлению анализа и обработки информации в сложных системах. Более 4 лет коммерческой веб-разработки на Angular, NgRx, React, TypeScript и Node.js, а также Python (pandas, Plotly, Streamlit) для анализа данных и дашбордов."
+  },
+  "skills": {
+    "categories": [
+      {
+        "key": "ai_ml",
+        "label": { "en": "AI & Machine Learning", "ar": "الذكاء الاصطناعي وتعلم الآلة", "ru": "ИИ и машинное обучение" },
+        "items": ["TensorFlow", "PyTorch", "Deep Learning", "Neural Networks", "Supervised Learning", "Unsupervised Learning"]
+      },
+      {
+        "key": "python",
+        "label": { "en": "Python & Data", "ar": "Python والبيانات", "ru": "Python и данные" },
+        "items": ["Python", "pandas", "Plotly", "Streamlit", "Data Analysis", "Dashboards"]
+      },
+      {
+        "key": "frontend",
+        "label": { "en": "Frontend", "ar": "الواجهة الأمامية", "ru": "Frontend" },
+        "items": ["Angular", "React", "TypeScript", "JavaScript (ES6+)", "NgRx", "NGXS", "HTML5", "CSS3", "SASS", "Tailwind CSS", "Angular Material", "MUI", "Bootstrap"]
+      },
+      {
+        "key": "backend",
+        "label": { "en": "Backend", "ar": "الواجهة الخلفية", "ru": "Backend" },
+        "items": ["Node.js", "Express.js", "NestJS", "REST API", "JWT", "Laravel", "Firebase"]
+      },
+      {
+        "key": "databases",
+        "label": { "en": "Databases", "ar": "قواعد البيانات", "ru": "Базы данных" },
+        "items": ["PostgreSQL", "Prisma ORM", "MongoDB", "Firebase"]
+      },
+      {
+        "key": "tools",
+        "label": { "en": "Tools & Practices", "ar": "الأدوات والممارسات", "ru": "Инструменты" },
+        "items": ["Git", "GitLab", "Figma", "Postman", "Webpack", "Agile/Scrum", "Clean Architecture", "Electron", "PySide6"]
+      },
+      {
+        "key": "networking",
+        "label": { "en": "Networking", "ar": "الشبكات", "ru": "Сети" },
+        "items": ["Cisco CCNA", "VLAN", "OSPF", "EIGRP", "RIP", "Packet Tracer", "GNS3", "VMware"]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "title": {
+        "en": "Lecturer: Artificial Intelligence and Neural Networks (Master's)",
+        "ar": "محاضر: الذكاء الاصطناعي والشبكات العصبية (ماجستير)",
+        "ru": "Преподаватель: «ИИ и нейронные сети» (магистратура)"
+      },
+      "company": "NUST MISIS",
+      "location": "Moscow, Russia",
+      "period": { "en": "Sep 2025 – Present", "ar": "سبتمبر 2025 – الآن", "ru": "Сен 2025 – н. в." },
+      "bullets": {
+        "en": [
+          "Teach supervised and unsupervised learning, deep learning architectures, and neural network optimization.",
+          "Guide students in applying ML models using Python, TensorFlow, and PyTorch.",
+          "Evaluate student projects and develop critical thinking in AI problem-solving."
+        ],
+        "ar": [
+          "أدرّس التعلم الخاضع للإشراف وغير الخاضع للإشراف، ومعمارية التعلم العميق، وتحسين الشبكات العصبية.",
+          "أوجّه الطلاب في تطبيق نماذج تعلم الآلة باستخدام Python وTensorFlow وPyTorch.",
+          "أقيّم مشاريع الطلاب وأطوّر التفكير النقدي في حل مسائل الذكاء الاصطناعي."
+        ],
+        "ru": [
+          "Преподаю обучение с учителем и без учителя, архитектуры глубокого обучения и оптимизацию нейронных сетей.",
+          "Руковожу студентами в применении моделей машинного обучения с использованием Python, TensorFlow и PyTorch.",
+          "Оцениваю проекты студентов, развивая критическое мышление и навыки решения задач."
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "Lecturer: Server-Side JavaScript (Master's)",
+        "ar": "محاضر: JavaScript من جانب الخادم (ماجستير)",
+        "ru": "Преподаватель: «Серверный JavaScript» (магистратура)"
+      },
+      "company": "NUST MISIS",
+      "location": "Moscow, Russia",
+      "period": { "en": "Spring 2025 – Present", "ar": "ربيع 2025 – الآن", "ru": "Весна 2025 – н. в." },
+      "bullets": {
+        "en": [
+          "Teach backend development with TypeScript, Node.js, NestJS, PostgreSQL, and Prisma ORM.",
+          "Cover REST API design, DTOs, validation, Dependency Injection, Clean Architecture, JWT auth, role-based access, logging, and API testing."
+        ],
+        "ar": [
+          "أدرّس تطوير الواجهة الخلفية باستخدام TypeScript وNode.js وNestJS وPostgreSQL وPrisma ORM.",
+          "أشرح تصميم REST API، وDTOs، والتحقق، وحقن التبعيات، والهندسة النظيفة، ومصادقة JWT، والتحكم بالوصول القائم على الأدوار."
+        ],
+        "ru": [
+          "Преподаю backend-разработку на TypeScript, Node.js, NestJS, PostgreSQL и Prisma ORM.",
+          "Рассматриваю проектирование REST API, DTO и валидацию, Dependency Injection, Clean Architecture, JWT-аутентификацию, ролевой доступ, логирование и тестирование API."
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "Lecturer: Frameworks & User Experience (Bachelor's)",
+        "ar": "محاضر: أُطر العمل وتجربة المستخدم (بكالوريوس)",
+        "ru": "Преподаватель: «Фреймворки и пользовательский опыт» (бакалавриат)"
+      },
+      "company": "NUST MISIS",
+      "location": "Moscow, Russia",
+      "period": { "en": "Spring 2025 – Present", "ar": "ربيع 2025 – الآن", "ru": "Весна 2025 – н. в." },
+      "bullets": {
+        "en": [
+          "Teach React fundamentals: component architecture, Hooks, Context API, SPA routing, API integration.",
+          "Cover frontend performance (memoization, Lazy Loading, Code Splitting), accessibility, UX forms, and Material UI design systems."
+        ],
+        "ar": [
+          "أدرّس أساسيات React: معمارية المكونات، وHooks، وContext API، وتوجيه SPA، وتكامل API.",
+          "أشرح أداء الواجهة الأمامية (memoization، التحميل الكسول، تقسيم الكود)، وإمكانية الوصول، ونماذج UX، وأنظمة تصميم Material UI."
+        ],
+        "ru": [
+          "Преподаю основы React: компонентная архитектура, Hooks, Context API, SPA-маршрутизация, интеграция с API.",
+          "Рассматриваю производительность frontend (memoization, Lazy Loading, Code Splitting), доступность, UX форм и дизайн-системы на Material UI."
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "Lecturer: Computer Science (Preparatory)",
+        "ar": "محاضر: علوم الحاسوب (قسم التحضيري)",
+        "ru": "Преподаватель информатики (подготовительное отделение)"
+      },
+      "company": "NUST MISIS",
+      "location": "Moscow, Russia",
+      "period": { "en": "Feb 2025 – Jun 2025", "ar": "فبراير 2025 – يونيو 2025", "ru": "Фев 2025 – Июн 2025" },
+      "bullets": {
+        "en": [
+          "Taught Computer Science and Python programming to international students in Russian.",
+          "Received positive feedback for clarity of explanation and engagement."
+        ],
+        "ar": [
+          "دَرَّستُ علوم الحاسوب وبرمجة Python للطلاب الدوليين باللغة الروسية.",
+          "حصلت على تقييمات إيجابية لوضوح الشرح والتفاعل."
+        ],
+        "ru": [
+          "Преподавал информатику и программирование на Python иностранным студентам на русском языке.",
+          "Получил положительные отзывы за ясность изложения и вовлечённость."
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "Frontend Developer",
+        "ar": "مطوّر واجهة أمامية",
+        "ru": "Frontend-разработчик"
+      },
+      "company": "IT Force",
+      "location": "Russia",
+      "period": { "en": "Oct 2023 – Mar 2025", "ar": "أكتوبر 2023 – مارس 2025", "ru": "Окт 2023 – Мар 2025" },
+      "bullets": {
+        "en": [
+          "Developed an e-commerce web application (in-game items trading) using Angular, Angular Material, and NgRx.",
+          "Led migration from module-based to Standalone Components architecture, improving modularity.",
+          "Applied Angular Signals to enhance reactivity and performance.",
+          "Worked Agile with GitLab, sprint planning, and Figma design implementation."
+        ],
+        "ar": [
+          "طوّرت تطبيق ويب للتجارة الإلكترونية (بيع عناصر داخل الألعاب) باستخدام Angular وAngular Material وNgRx.",
+          "قدتُ الترحيل من معمارية النماذج إلى المكونات المستقلة، مما حسّن قابلية الصيانة.",
+          "طبّقت Angular Signals لتعزيز التفاعلية والأداء.",
+          "عملت وفق منهجية Agile مع GitLab وتخطيط السبرينت وتنفيذ تصاميم Figma."
+        ],
+        "ru": [
+          "Разрабатывал веб-приложение электронной коммерции (продажа внутриигровых предметов) на Angular, Angular Material и NgRx.",
+          "Участвовал в миграции с модулей на автономные компоненты, улучшив модульность и поддерживаемость.",
+          "Применял Angular Signals для повышения реактивности и производительности.",
+          "Работал по Agile: GitLab, планирование спринтов, реализация макетов из Figma."
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "Freelance Frontend Developer",
+        "ar": "مطوّر واجهة أمامية مستقل",
+        "ru": "Фриланс-разработчик интерфейсов"
+      },
+      "company": { "en": "Independent", "ar": "مستقل", "ru": "Независимый консультант" },
+      "location": "Remote",
+      "period": { "en": "Jan 2021 – Present", "ar": "يناير 2021 – الآن", "ru": "Янв 2021 – н. в." },
+      "bullets": {
+        "en": [
+          "Analyzed and resolved complex issues in client projects, improving performance and UX.",
+          "Migrated projects to Standalone Components; managed state with NgRx, Signals, and NGXS.",
+          "Integrated with MongoDB, Laravel, and Firebase; built real-time chat apps deployed on Firebase Hosting.",
+          "Implemented Angular Guards for route protection; optimized with Lazy Loading and Webpack."
+        ],
+        "ar": [
+          "حللت وحللت المشكلات المعقدة في مشاريع العملاء، مما حسّن الأداء وتجربة المستخدم.",
+          "رحّلت المشاريع إلى Standalone Components؛ وأدرت الحالة باستخدام NgRx وSignals وNGXS.",
+          "دمجت مع MongoDB وLaravel وFirebase؛ وبنيت تطبيقات دردشة فورية منشورة على Firebase Hosting.",
+          "نفّذت Angular Guards لحماية المسارات؛ وحسّنت الأداء باستخدام Lazy Loading وWebpack."
+        ],
+        "ru": [
+          "Анализировал и устранял сложные проблемы в проектах клиентов, улучшая производительность и UX.",
+          "Переводил проекты на Standalone Components; управлял состоянием с NgRx, Signals и NGXS.",
+          "Интегрировал с MongoDB, Laravel и Firebase; создавал чаты в реальном времени, развёртывал на Firebase Hosting.",
+          "Внедрял Angular Guards для защиты маршрутов; оптимизировал с Lazy Loading и Webpack."
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "Web Programmer",
+        "ar": "مبرمج ويب",
+        "ru": "Веб-программист"
+      },
+      "company": "Restaurant Roman",
+      "location": "Berlin, Germany",
+      "period": { "en": "Jun 2021 – Aug 2021", "ar": "يونيو 2021 – أغسطس 2021", "ru": "Июн 2021 – Авг 2021" },
+      "bullets": {
+        "en": [
+          "Led development of a food ordering web app using Angular, Angular Material, Tailwind CSS, and Firebase.",
+          "Implemented a real-time order notification system for administrators and kitchen staff."
+        ],
+        "ar": [
+          "قدتُ تطوير تطبيق ويب لطلب الطعام باستخدام Angular وAngular Material وTailwind CSS وFirebase.",
+          "نفّذت نظام إشعارات الطلبات الفورية للمديرين وطاقم المطبخ."
+        ],
+        "ru": [
+          "Руководил разработкой веб-приложения для заказа еды на Angular, Angular Material, Tailwind CSS и Firebase.",
+          "Реализовал систему уведомлений о заказах в реальном времени для администраторов и кухни."
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "Frontend Development Instructor",
+        "ar": "مدرّس تطوير الواجهة الأمامية",
+        "ru": "Преподаватель frontend-разработки"
+      },
+      "company": "Codify College",
+      "location": "Sweden (Online)",
+      "period": { "en": "Apr 2021 – Jun 2021", "ar": "أبريل 2021 – يونيو 2021", "ru": "Апр 2021 – Июн 2021" },
+      "bullets": {
+        "en": [
+          "Delivered online lectures on HTML, CSS, JavaScript, React.js, and Bootstrap.",
+          "Developed practical assignments and examples to facilitate student learning."
+        ],
+        "ar": [
+          "ألقيت محاضرات إلكترونية في HTML وCSS وJavaScript وReact.js وBootstrap.",
+          "طوّرت تمارين عملية وأمثلة لتيسير تعلم الطلاب."
+        ],
+        "ru": [
+          "Проводил онлайн-лекции по HTML, CSS, JavaScript, React.js и Bootstrap.",
+          "Разрабатывал практические задания и примеры для упрощения обучения студентов."
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "IT Lecturer",
+        "ar": "محاضر تقنية المعلومات",
+        "ru": "Преподаватель информационных технологий"
+      },
+      "company": { "en": "University of Homs", "ar": "جامعة حمص", "ru": "Университет Хомса" },
+      "location": "Homs, Syria",
+      "period": { "en": "Sep 2020 – Aug 2021", "ar": "سبتمبر 2020 – أغسطس 2021", "ru": "Сен 2020 – Авг 2021" },
+      "bullets": {
+        "en": [
+          "Taught undergraduate courses: Programming Languages, Network Security, Computer Fundamentals, Specialized English.",
+          "Lectured on server-side programming with Express.js and MongoDB; API testing with Postman; UI/UX design with Figma."
+        ],
+        "ar": [
+          "دَرَّستُ مواد البكالوريوس: لغات البرمجة، أمن الشبكات، أساسيات الحاسوب، اللغة الإنجليزية المتخصصة.",
+          "ألقيت محاضرات في البرمجة من جانب الخادم باستخدام Express.js وMongoDB؛ واختبار API باستخدام Postman؛ وتصميم UI/UX باستخدام Figma."
+        ],
+        "ru": [
+          "Преподавал дисциплины бакалавриата: языки программирования, сетевая безопасность, основы работы с компьютером, специализированный английский язык.",
+          "Проводил лекции по серверному программированию на Express.js и MongoDB, тестированию API в Postman и основам UI/UX-дизайна в Figma."
+        ]
+      }
+    }
+  ],
+  "education": [
+    {
+      "degree": {
+        "en": "PhD Candidate: Analysis, Control and Processing of Information in Complex Systems",
+        "ar": "دكتوراه (قيد الدراسة): تحليل ومعالجة المعلومات في الأنظمة المعقدة",
+        "ru": "Аспирант: «Анализ, управление и обработка информации в сложных системах»"
+      },
+      "institution": "NUST MISIS",
+      "location": "Moscow, Russia",
+      "period": { "en": "In progress", "ar": "قيد الدراسة", "ru": "обучение продолжается" }
+    },
+    {
+      "degree": {
+        "en": "Master of Science: Industrial Internet of Things (IIoT)",
+        "ar": "ماجستير في العلوم: إنترنت الأشياء الصناعي (IIoT)",
+        "ru": "Магистр наук: промышленный интернет вещей (IIoT)"
+      },
+      "institution": "NUST MISIS",
+      "location": "Moscow, Russia",
+      "period": { "en": "2025", "ar": "2025", "ru": "2025" }
+    },
+    {
+      "degree": {
+        "en": "Bachelor of Information Technology: Network Design",
+        "ar": "بكالوريوس تقنية المعلومات: تصميم الشبكات",
+        "ru": "Бакалавр информационных технологий: сетевое проектирование"
+      },
+      "institution": { "en": "Al-Baath University", "ar": "جامعة البعث", "ru": "Университет Аль-Баас" },
+      "location": "Homs, Syria",
+      "period": { "en": "2020", "ar": "2020", "ru": "2020" }
+    }
+  ],
+  "volunteering": [
+    {
+      "title": {
+        "en": "Delegation Attaché — World Youth Festival 2024",
+        "ar": "ملحق وفد — مهرجان الشباب العالمي 2024",
+        "ru": "Атташе делегации — Всемирный фестиваль молодёжи 2024"
+      },
+      "period": { "en": "Feb – Mar 2024", "ar": "فبراير – مارس 2024", "ru": "Фев – Мар 2024" },
+      "desc": {
+        "en": "Assisted international delegates with communication, logistics and cultural integration. Awarded a certificate of honor and commemorative medal of WYF 2024.",
+        "ar": "ساعدت المندوبين الدوليين في التواصل واللوجستيات والاندماج الثقافي. مُنحت شهادة تقدير وميدالية تذكارية لمهرجان الشباب العالمي 2024.",
+        "ru": "Помогал международным делегатам с коммуникацией, логистикой и культурной интеграцией. Награждён почётной грамотой и памятной медалью ВФМ 2024."
+      }
+    },
+    {
+      "title": {
+        "en": "Delegation Attaché — IADO Summit & IDB Congress of WYF (2024)",
+        "ar": "ملحق وفد — قمة IADO ومؤتمر IDB لمهرجان WYF (2024)",
+        "ru": "Атташе делегации — саммит МАДО и конгресс Международного совета дирекции ВФМ (2024)"
+      },
+      "period": { "en": "May – Jul 2024", "ar": "مايو – يوليو 2024", "ru": "Май – Июл 2024" },
+      "desc": {
+        "en": "Provided translation and organizational support to delegations from 25+ countries, including MENA region countries.",
+        "ar": "قدّمت دعماً في الترجمة والتنظيم لوفود من أكثر من 25 دولة، بما فيها دول منطقة الشرق الأوسط وشمال أفريقيا.",
+        "ru": "Оказывал переводческую и организационную поддержку делегациям из более чем 25 стран."
+      }
+    },
+    {
+      "title": {
+        "en": "Navigator — MISIS Open Days 2024",
+        "ar": "مرشد — أيام الأبواب المفتوحة بجامعة ميسيس 2024",
+        "ru": "Навигатор — дни открытых дверей МИСиС 2024"
+      },
+      "period": { "en": "Apr 2024", "ar": "أبريل 2024", "ru": "Апр 2024" },
+      "desc": {
+        "en": "Organized and conducted open days for prospective students; provided campus tours and explained academic programs.",
+        "ar": "نظّمت وأجريت أيام الأبواب المفتوحة للطلاب المحتملين؛ وقدّمت جولات في الحرم الجامعي وشرحت البرامج الأكاديمية.",
+        "ru": "Организовывал и проводил дни открытых дверей для будущих студентов, предоставляя экскурсии по кампусу."
+      }
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio Web App",
+      "tech": ["Angular", "TypeScript", "SASS"],
+      "desc": {
+        "en": "Personal web application showcasing projects and skills.",
+        "ar": "تطبيق ويب شخصي يعرض المشاريع والمهارات.",
+        "ru": "Веб-приложение на Angular, демонстрирующее личные проекты и навыки."
+      }
+    },
+    {
+      "name": "Roman Web App",
+      "tech": ["Angular", "Firebase", "Tailwind CSS"],
+      "desc": {
+        "en": "Food ordering web application for Restaurant Roman in Berlin with real-time order notifications.",
+        "ar": "تطبيق ويب لطلب الطعام لمطعم رومان في برلين مع إشعارات الطلبات الفورية.",
+        "ru": "Веб-приложение для заказа еды в ресторане «Роман» в Берлине."
+      }
+    },
+    {
+      "name": "Real-time Chat App",
+      "tech": ["Angular", "Firebase"],
+      "desc": {
+        "en": "Web application with Firebase integration for real-time messaging.",
+        "ar": "تطبيق ويب مع تكامل Firebase لتبادل الرسائل الفورية.",
+        "ru": "Веб-приложение на Angular с интеграцией Firebase для обмена сообщениями в реальном времени."
+      }
+    },
+    {
+      "name": "Product Management App",
+      "tech": ["Angular", "NgRx", "TypeScript"],
+      "desc": {
+        "en": "Web application for managing products with NgRx state management.",
+        "ar": "تطبيق ويب لإدارة المنتجات مع إدارة الحالة باستخدام NgRx.",
+        "ru": "Веб-приложение для управления продуктами с использованием NgRx для управления состоянием."
+      }
+    },
+    {
+      "name": "Alphacenter",
+      "tech": ["WordPress"],
+      "desc": {
+        "en": "WordPress web application displaying services offered by Alphacenter.",
+        "ar": "تطبيق ويب على WordPress يعرض خدمات Alphacenter.",
+        "ru": "Веб-приложение на WordPress для отображения услуг Alphacenter."
+      }
+    }
+  ],
+  "languages": [
+    { "lang": { "en": "Arabic", "ar": "العربية", "ru": "Арабский" }, "level": { "en": "Native", "ar": "لغة أم", "ru": "Родной" } },
+    { "lang": { "en": "Russian", "ar": "الروسية", "ru": "Русский" }, "level": { "en": "Professional (B2)", "ar": "احترافي (B2)", "ru": "Профессиональный (B2)" } },
+    { "lang": { "en": "English", "ar": "الإنجليزية", "ru": "Английский" }, "level": { "en": "Professional (B2)", "ar": "احترافي (B2)", "ru": "Профессиональный (B2)" } }
+  ],
+  "ui": {
+    "nav": {
+      "about":        { "en": "About",        "ar": "عن المرشح",    "ru": "О себе" },
+      "skills":       { "en": "Skills",       "ar": "المهارات",     "ru": "Навыки" },
+      "experience":   { "en": "Experience",   "ar": "الخبرة",       "ru": "Опыт" },
+      "education":    { "en": "Education",    "ar": "التعليم",      "ru": "Образование" },
+      "projects":     { "en": "Projects",     "ar": "المشاريع",     "ru": "Проекты" },
+      "volunteering": { "en": "Volunteering", "ar": "التطوع",       "ru": "Волонтёрство" }
+    },
+    "section_titles": {
+      "about":        { "en": "About Me",          "ar": "عن المرشح",          "ru": "О себе" },
+      "skills":       { "en": "Technical Skills",  "ar": "المهارات التقنية",   "ru": "Технические навыки" },
+      "experience":   { "en": "Work Experience",   "ar": "الخبرة المهنية",     "ru": "Опыт работы" },
+      "education":    { "en": "Education",         "ar": "التعليم",            "ru": "Образование" },
+      "projects":     { "en": "Projects",          "ar": "المشاريع",           "ru": "Проекты" },
+      "volunteering": { "en": "Volunteering",      "ar": "النشاط التطوعي",     "ru": "Волонтёрская деятельность" },
+      "languages":    { "en": "Languages",         "ar": "اللغات",             "ru": "Языки" }
+    },
+    "labels": {
+      "download_cv":  { "en": "Download CV",    "ar": "تحميل السيرة الذاتية",  "ru": "Скачать CV" },
+      "contact":      { "en": "Contact",        "ar": "التواصل",               "ru": "Контакты" },
+      "present":      { "en": "Present",        "ar": "الآن",                  "ru": "н. в." }
+    }
+  }
+}

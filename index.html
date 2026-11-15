@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yarob Alrifai — CV</title>
+  <meta name="description" content="Yarob Alrifai — AI & Machine Learning | Full-Stack Developer | Lecturer at MISIS" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Tajawal:wght@400;500;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="css/style.css" />
+
+  <!-- ★ CV data — edit ONLY this file to update your CV -->
+  <script src="data/cv-data.js"></script>
+
+  <!-- docx.js — for Word export (CDN, no server needed) -->
+  <script src="https://cdn.jsdelivr.net/npm/docx@8.5.0/build/index.min.js"></script>
+</head>
+<body>
+
+  <!-- ══════════════════════════════════════
+       Mobile top bar
+  ══════════════════════════════════════ -->
+  <div class="topbar">
+    <span class="topbar-name" id="topbar-name">Yarob Alrifai</span>
+    <div class="topbar-right">
+      <button id="theme-btn-mobile" class="icon-btn" title="Toggle theme"></button>
+      <button id="menu-toggle" class="icon-btn" title="Menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20">
+          <line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="layout">
+
+    <!-- ════════════════════════════════════
+         SIDEBAR
+    ════════════════════════════════════ -->
+    <aside class="sidebar">
+
+      <div class="profile">
+        <div class="avatar-wrap" id="avatar-wrap"></div>
+        <div class="profile-name"  id="profile-name"></div>
+        <div class="profile-title" id="profile-title"></div>
+      </div>
+
+      <div class="sb-block">
+        <div class="sb-label">Contact</div>
+        <ul class="contact-list" id="contact-list"></ul>
+      </div>
+
+      <div class="sb-block">
+        <div class="sb-label">Languages</div>
+        <div id="lang-badges"></div>
+      </div>
+
+      <div class="sb-block">
+        <div class="sb-label">Navigate</div>
+        <nav class="sb-nav" id="sb-nav"></nav>
+      </div>
+
+    </aside>
+
+    <!-- ════════════════════════════════════
+         MAIN
+    ════════════════════════════════════ -->
+    <main class="main">
+
+      <!-- ── Toolbar ── -->
+      <div class="toolbar">
+        <!-- Language switcher -->
+        <div class="lang-switch" id="lang-switch"></div>
+
+        <!-- Export buttons -->
+        <div class="export-btns" id="export-btns">
+          <!-- filled by JS with correct labels -->
+        </div>
+
+        <!-- Theme toggle -->
+        <button id="theme-btn" class="icon-btn" title="Toggle theme"></button>
+      </div>
+
+      <!-- ── Hero ── -->
+      <section class="hero section" id="sec-hero">
+        <h1 id="hero-name"></h1>
+        <p class="hero-sub" id="hero-sub"></p>
+        <div class="hero-actions">
+          <a id="btn-linkedin" class="btn btn-primary"
+             href="https://linkedin.com/in/yarob-alrifai-a21739190"
+             target="_blank" rel="noopener"></a>
+          <a id="btn-contact" class="btn btn-ghost"
+             href="mailto:yalrifai41@gmail.com"></a>
+        </div>
+      </section>
+
+      <!-- ── About ── -->
+      <section class="section" id="sec-about" data-sec-id="about">
+        <div class="sec-title" id="sec-title-about"></div>
+        <p class="about-p" id="about-p"></p>
+      </section>
+
+      <!-- ── Skills ── -->
+      <section class="section" id="sec-skills" data-sec-id="skills">
+        <div class="sec-title" id="sec-title-skills"></div>
+        <div class="skills-grid" id="skills-grid"></div>
+      </section>
+
+      <!-- ── Experience ── -->
+      <section class="section" id="sec-experience" data-sec-id="experience">
+        <div class="sec-title" id="sec-title-experience"></div>
+        <div class="timeline" id="exp-timeline"></div>
+      </section>
+
+      <!-- ── Education ── -->
+      <section class="section" id="sec-education" data-sec-id="education">
+        <div class="sec-title" id="sec-title-education"></div>
+        <div class="edu-list" id="edu-list"></div>
+      </section>
+
+      <!-- ── Projects ── -->
+      <section class="section" id="sec-projects" data-sec-id="projects">
+        <div class="sec-title" id="sec-title-projects"></div>
+        <div class="projects-grid" id="projects-grid"></div>
+      </section>
+
+      <!-- ── Volunteering ── -->
+      <section class="section" id="sec-volunteering" data-sec-id="volunteering">
+        <div class="sec-title" id="sec-title-volunteering"></div>
+        <div class="vol-list" id="vol-list"></div>
+      </section>
+
+    </main>
+  </div>
+
+  <script src="js/app.js"></script>
+  <script src="js/export.js"></script>
+</body>
+</html>
